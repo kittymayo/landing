@@ -1,0 +1,27 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Allerta+Stencil|Archivo');
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Allerta Stencil';
+}
+p{
+font-family: 'Archivo';
+
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+body {
+  background: #F8F7FB;
+}
+

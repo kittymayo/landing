@@ -1,0 +1,16 @@
+
+.btn-book {
+  color: white;
+/*  border: 1px solid #1F2D6F;*/
+  padding: 1px 8px;
+  border-radius: 50px;
+  opacity: 0.9;
+  border: 3px solid white;
+  text-shadow: 0ox 2px 2px gray;
+  box-shadow: text-shadow: 0ox 2px 2px gray;
+}
+
+.btn-book:hover {
+  font-weight: bolder;
+  opacity: 0.9;
+}
